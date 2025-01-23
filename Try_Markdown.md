@@ -1,5 +1,9 @@
 # Head first  
-## Head second  
+## Head second 
+Head first
+=========
+Head second
+----------
 >this *is* paragraph 
 **one**
 >
